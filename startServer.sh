@@ -1,0 +1,3 @@
+echo "start server ..."
+python3 manage.py runserver
+
