@@ -18,3 +18,7 @@ heroku config:set DISABLE_COLLECTSTATIC=1
 
 上記コマンドでデプロイすることができた
 
+Procfileのパスは変更必須
+
+myapp/settings.pyのALLOWED_HOSTSを設定する必要あり
+
